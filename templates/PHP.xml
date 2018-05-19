@@ -1,0 +1,3 @@
+<templateSet group="PHP">
+  <template name="combl" value="/*&#10;|--------------------------------------------------------------------------&#10;| CHANGE CONTENT&#10;|--------------------------------------------------------------------------&#10;*/" description="formatted separator" toReformat="false" toShortenFQNames="true" />
+</templateSet>
